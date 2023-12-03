@@ -1,5 +1,5 @@
-#mumaren
+#mumaren 要合并使用的源
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/msp.m3u
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/lsjspl/TV/main/ipv6.m3u
-#ban
+#ban  禁止的垃圾源
 http://159.75.85.63:5680/
