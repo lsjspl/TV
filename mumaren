@@ -3,7 +3,8 @@
 #ipv6源
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/lsjspl/TV/main/ipv6.m3u
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
-#普通源
+#ipv4源
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/msp.m3u
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/Cyril0563/lanjing_live/main/IPTV_FREE/goodiptv.txt
 #ban  禁止的垃圾源 注意是模糊匹配
 http://159.75.85.63:5680/
