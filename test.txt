@@ -1,5 +1,5 @@
 #mumaren
-CCTV:河南卫视,CCTV,LETV,CHC,CGTN
+CCTV:河南卫视,CCTV,卫视
 
 #ban 
 max,1080
