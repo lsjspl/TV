@@ -27,7 +27,9 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/lsjspl/TV/main/muma
 ## 这个是ipv6的 需要开启ipv6
 
 
-## 注意： github的源地址国内尽可能挂代理，`（上面的链接已经默认在前面加了代理地址https://mirror.ghproxy.com/，如果不能访问可以切换到下面的任意一个）   ` 
+## Github加速
+注意： github的源地址国内尽可能挂代理
+`（上面的链接已经默认在前面加了代理地址https://mirror.ghproxy.com/，如果不能访问可以切换到下面的任意一个）   ` 
 
 -https://mirror.ghproxy.com/    
 -https://mirrors.chenby.cn/    
