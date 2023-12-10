@@ -23,7 +23,6 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/lsjspl/TV/main/muma
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/msp.m3u    
 
 这个是ipv6的 需要开启ipv6
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhanghongguang/zhanghongguang.github.io/main/IPV6_IPTV.m3u  
 
 
 注意： github的源地址国内尽可能挂代理，（上面的链接已经默认在前面加了代理地址https://mirror.ghproxy.com/，如果不能访问可以切换到下面的任意一个）    
