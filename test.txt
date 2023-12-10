@@ -2,3 +2,4 @@
 CCTV:河南卫视,CCTV,LETV,CHC,CGTN
 
 #ban 
+max,1080
