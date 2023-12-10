@@ -21,7 +21,8 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/lsjspl/TV/main/muma
 - 正经源：https://mirror.ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u   
 - 不正经源：https://mirror.ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u   
 - 不正经源：https://tv.iill.top/xx    
-- 非常好的源：https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/msp.m3u    
+- 非常好的源：https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/msp.m3u
+- https://github.com/Cyril0563/lanjing_live/blob/main/IPTV_FREE/goodiptv.txt 
 
 ## 这个是ipv6的 需要开启ipv6
 
