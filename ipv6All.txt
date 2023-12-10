@@ -1,6 +1,6 @@
 #mumaren 要合并使用的源
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/Cyril0563/lanjing_live/main/TVbox_Free/LIVE/Free/HD_LIVE.txt
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/lsjspl/TV/main/ipv6.m3u
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
+#https://mirror.ghproxy.com/https://raw.githubusercontent.com/lsjspl/TV/main/ipv6.m3u
+#https://mirror.ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
 #ban  禁止的垃圾源 注意是模糊匹配
 http://159.75.85.63:5680/
