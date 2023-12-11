@@ -1,6 +1,4 @@
 #mumaren 要合并使用的源
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/msp.m3u
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/Cyril0563/lanjing_live/main/IPTV_FREE/goodiptv.txt
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/Cyril0563/lanjing_live/main/IPTV_FREE/%E5%A4%AE%E8%A7%862309%E5%A2%9E%E5%8A%A0.txt
+https://epg.pw/test_channels.m3u
 #ban  禁止的垃圾源 注意是模糊匹配
 http://159.75.85.63:5680/
