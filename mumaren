@@ -1,9 +1,9 @@
 #mumaren 要合并使用的源
 #ipv6源
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/Cyril0563/lanjing_live/main/TVbox_Free/LIVE/Free/HD_LIVE.txt
+https://mirrors.chenby.cn/https://raw.githubusercontent.com/Cyril0563/lanjing_live/main/TVbox_Free/LIVE/Free/HD_LIVE.txt
 #https://mirror.ghproxy.com/https://raw.githubusercontent.com/lsjspl/TV/main/source/ipv6.m3u
 #https://mirror.ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
-https://mirrors.chenby.cn/https://raw.githubusercontent.com/lsjspl/TV/main/source/ipv6.m3u
+#https://mirrors.chenby.cn/https://raw.githubusercontent.com/lsjspl/TV/main/source/ipv6.m3u
 https://mirrors.chenby.cn/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
 #ipv4源
 #https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/msp.m3u
