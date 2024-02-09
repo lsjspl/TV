@@ -1,14 +1,7 @@
 #mumaren 要合并使用的源
 #ipv6源
-https://mirrors.chenby.cn/https://raw.githubusercontent.com/Cyril0563/lanjing_live/main/TVbox_Free/LIVE/Free/HD_LIVE.txt
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/lsjspl/TV/main/source/ipv6.m3u
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
-#https://mirrors.chenby.cn/https://raw.githubusercontent.com/lsjspl/TV/main/source/ipv6.m3u
-https://mirrors.chenby.cn/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
+https://mirrors.chenby.cn/https://raw.githubusercontent.com/lsjspl/TV/main/source/ipv6.m3u
 #ipv4源
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/msp.m3u
-#https://mirror.ghproxy.com/https://raw.githubusercontent.com/Cyril0563/lanjing_live/main/IPTV_FREE/goodiptv.txt
-https://mirrors.chenby.cn/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/msp.m3u
-https://mirrors.chenby.cn/https://raw.githubusercontent.com/Cyril0563/lanjing_live/main/IPTV_FREE/goodiptv.txt
+https://mirrors.chenby.cn/https://raw.githubusercontent.com/joevess/IPTV/main/sources/iptv_sources.m3u8
 #ban  禁止的垃圾源 注意是模糊匹配
 http://159.75.85.63:5680/
